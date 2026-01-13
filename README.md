@@ -6,3 +6,4 @@ CNU OSS
 
 ## branch
 current branch is sample1
+Confilct!
