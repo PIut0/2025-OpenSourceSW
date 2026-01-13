@@ -5,4 +5,5 @@ CNU OSS
 7주차 README 수정
 
 ## branch
-current branch is sample2
+current branch is sample1
+Confilct!
