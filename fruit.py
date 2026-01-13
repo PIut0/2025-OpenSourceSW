@@ -5,3 +5,8 @@ fruits = {
     '복숭아': 4000,
 }
 
+a = input("어서옵쇼~ 어떤 과일을 찾으세요?")
+if a in fruits:
+    print(f"아! {a}는 {fruits[a]}원입죠~")
+else:
+    print(f"아이고~ {a}는 매장에 없네요.")
